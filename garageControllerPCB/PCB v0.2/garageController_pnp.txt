@@ -1,0 +1,69 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=garageController
+*Date=12:48:40
+*CreatedBy=Fritzing 0.9.6b.2021-02-21.CD-175-0-8a1e0682
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;85.781;-6.79213;90;Bottom;+LED Door-
+2;100;THT;80.574;-45.9081;180;Bottom;100
+3;;THT;52.507;-69.7841;-90;Bottom;Magnet I
+4;;300 mil [THT];29.774;-52.2327;90;Bottom;D2
+5;1000;THT;37.394;-43.3681;0;Bottom;1k
+6;;;24.694;-30.6681;-90;Bottom;Pro Mini
+7;;;51.2043;-3.0197;0;Bottom;TXT1
+8;;THT;73.081;-6.79213;90;Bottom;Reedswitch
+9;;;54.0015;-26.2707;90;Bottom;Relais Siren
+10;;;90.8055;-31.8711;0;Bottom;TXT2
+11;;;95.8141;-5.26805;0;Bottom;Hole4
+12;;;54.0015;-51.6707;90;Bottom;Relais Light
+13;1000;THT;62.794;-35.7481;180;Bottom;1k
+14;1000;THT;57.714;-15.4281;180;Bottom;1k
+15;;THT;14.661;-6.79213;90;Bottom;Buttonsignal Door
+16;;;2.53865;-29.5048;-90;Bottom;TXT3
+17;;THT;24.567;-69.7841;-90;Bottom;+12V IN-
+18;100;THT;80.574;-20.5081;-90;Bottom;100
+19;10000;THT;24.694;-20.5081;0;Bottom;10k
+20;100;THT;80.574;-35.7481;180;Bottom;100
+21;;;95.2461;-20.6294;0;Bottom;TXT4
+22;10000;THT;75.494;-66.2281;90;Bottom;10k
+23;;THT;39.807;-69.7841;-90;Bottom;Magnet II
+24;;molex-1x2_lock;90.48;-36.8911;-90;Bottom;LED grn
+25;;;45.014;-30.6681;0;Bottom;Via8
+26;;TO92 [THT];67.6835;-20.4192;0;Bottom;Q2
+27;;;75.4939;-58.6081;0;Bottom;Via3
+28;;THT;67.747;-69.7841;-90;Bottom;-12V Light +
+29;10000;THT;75.494;-20.5081;90;Bottom;10k
+30;;;95.8141;-71.308;0;Bottom;Hole3
+31;;;2.08897;-58.6571;-90;Bottom;TXT3
+32;;THT;5.64405;-63.6881;90;Bottom;J2
+33;;molex-1x2_lock;90.48;-47.0511;-90;Bottom;LED red
+34;;molex-1x2_lock;85.4;-67.3711;-90;Bottom;SW Mode
+35;;;34.8539;-61.1481;0;Bottom;Via5
+36;;;95.5319;-25.2954;0;Bottom;TXT4
+37;;TO92 [THT];67.6835;-45.8192;0;Bottom;Q3
+38;;;90.7326;-42.148;0;Bottom;TXT2
+39;;;37.3939;-40.8281;0;Bottom;Via2
+40;;molex-1x2_lock;13.391;-71.0541;180;Bottom;SW Main
+41;;;18.4416;-51.6707;90;Bottom;Relais Magnet
+42;;molex-1x2_lock;90.48;-19.1111;-90;Bottom;A0
+43;;molex-1x2_lock;85.4;-57.2111;-90;Bottom;SW Light
+44;;THT;5.64405;-58.6081;90;Bottom;J3
+45;;TO92 [THT];32.1235;-45.8192;0;Bottom;Q1
+46;;THT;29.901;-6.79213;90;Bottom;-Siren+
+47;;molex-1x2_lock;90.48;-26.7311;-90;Bottom;D11
+48;;300 mil [THT];65.334;-52.2327;90;Bottom;D4
+49;;THT;4.37405;-29.4053;0;Bottom;J1
+50;;300 mil [THT];65.334;-26.8327;90;Bottom;D3
+51;;;4.37405;-5.26805;0;Bottom;Hole1
+52;;;4.37405;-71.308;0;Bottom;Hole2
+53;;;50.0649;-35.7481;0;Bottom;Via9
+54;;THT;5.64405;-53.5281;90;Bottom;J4
